@@ -1,1 +1,2 @@
-# first-mob
+# Pierwsza Aplikacja mobilna
+
